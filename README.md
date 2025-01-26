@@ -1,4 +1,4 @@
-# [FEEDO] 🎯
+# FEEDO 🎯
 
 
 ## Basic Details
@@ -63,10 +63,10 @@ For Software:
 # Screenshots (Add at least 3)
 https://github.com/error101-eng/tink-her-hack-3-temp/blob/f82890ae6a9f076907f110eaa7444f2ede845693/finalproduct.png
 
-![Screenshot2
+
 https://github.com/error101-eng/tink-her-hack-3-temp/blob/1fc27121f6a4c3c38aa7284cb6c9f85bee39d843/Screenshot%20(4).png
 
-![Screenshot3]
+
 https://github.com/error101-eng/tink-her-hack-3-temp/blob/1fc27121f6a4c3c38aa7284cb6c9f85bee39d843/Screenshot%20(3).png
 
 # Diagrams
@@ -104,9 +104,8 @@ https://www.loom.com/share/b9ae75c30e83414c8e3eee6ace486553?sid=d13f8d16-2c8b-41
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+-Sreelakshmi p: IDEA AND CODING
+- Akshara mohandas: CODING ND TESTING
+- Fathima nehrin: LOGO AND CODING
 ---
 Made with ❤️ at TinkerHub
