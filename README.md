@@ -50,7 +50,7 @@ For Hardware:
 ### Implementation
 For Software:      
 # Installation
-vs code
+VS code
 
 # Run
 - Run using live server
