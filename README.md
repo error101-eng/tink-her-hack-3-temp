@@ -81,7 +81,7 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Team Photo](https://drive.google.com/file/d/1AwC6QEW_CLs2UBU4bZiLk1r-2ZwKu0M8/view?usp=drive_link)
+![Team Photo](https://github.com/error101-eng/tink-her-hack-3-temp/blob/cf092e6c96cc769a5f7b13bd9b4d7506992b83fc/20241130_140955.jpg)
 
 
 ![Components](Add photo of your components here)
@@ -97,10 +97,10 @@ For Hardware:
 
 
 # Additional Demos
-[Add any extra demo materials/links]
+NA
 
 ## Team Contributions
-- Sreelakshmi p: IDEA AND CODING
+- Sreelakshmi P: IDEA AND CODING
 - Akshara mohandas: CODING AND TESTING
 - Fathima nehrin: LOGO AND CODING
 ---
