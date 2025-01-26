@@ -93,7 +93,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-![Demo](https://www.loom.com/share/b9ae75c30e83414c8e3eee6ace486553?sid=d13f8d16-2c8b-419e-a16b-e46112ae0311)
+[Demo](https://www.loom.com/share/b9ae75c30e83414c8e3eee6ace486553?sid=d13f8d16-2c8b-419e-a16b-e46112ae0311)
 
 
 # Additional Demos
