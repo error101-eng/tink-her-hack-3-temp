@@ -61,8 +61,7 @@ vs code
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+https://github.com/error101-eng/tink-her-hack-3-temp/blob/f82890ae6a9f076907f110eaa7444f2ede845693/finalproduct.png
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
@@ -93,8 +92,8 @@ https://drive.google.com/file/d/1AwC6QEW_CLs2UBU4bZiLk1r-2ZwKu0M8/view?usp=drive
 [Build]
 https://github.com/error101-eng/tink-her-hack-3-temp/blob/1d55d3a30bf260588db47d96bace7477f15a2d0c/Screenshot%20(1).png
 
-[Final](Add photo of final product here)
-*Explain the final build*
+[Final]
+https://github.com/error101-eng/tink-her-hack-3-temp/blob/f82890ae6a9f076907f110eaa7444f2ede845693/finalproduct.png
 
 ### Project Demo
 # Video
