@@ -61,13 +61,13 @@ vs code
 For Software:
 
 # Screenshots (Add at least 3)
-https://github.com/error101-eng/tink-her-hack-3-temp/blob/f82890ae6a9f076907f110eaa7444f2ede845693/finalproduct.png
+![](https://github.com/error101-eng/tink-her-hack-3-temp/blob/f82890ae6a9f076907f110eaa7444f2ede845693/finalproduct.png)
 
 
-https://github.com/error101-eng/tink-her-hack-3-temp/blob/1fc27121f6a4c3c38aa7284cb6c9f85bee39d843/Screenshot%20(4).png
+![](https://github.com/error101-eng/tink-her-hack-3-temp/blob/1fc27121f6a4c3c38aa7284cb6c9f85bee39d843/Screenshot%20(4).png)
 
 
-https://github.com/error101-eng/tink-her-hack-3-temp/blob/1fc27121f6a4c3c38aa7284cb6c9f85bee39d843/Screenshot%20(3).png
+![](https://github.com/error101-eng/tink-her-hack-3-temp/blob/1fc27121f6a4c3c38aa7284cb6c9f85bee39d843/Screenshot%20(3).png)
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
