@@ -90,10 +90,10 @@ https://drive.google.com/file/d/1AwC6QEW_CLs2UBU4bZiLk1r-2ZwKu0M8/view?usp=drive
 ![Components](Add photo of your components here)
 *List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+[Build]
+https://github.com/error101-eng/tink-her-hack-3-temp/blob/1d55d3a30bf260588db47d96bace7477f15a2d0c/Screenshot%20(1).png
 
-![Final](Add photo of final product here)
+[Final](Add photo of final product here)
 *Explain the final build*
 
 ### Project Demo
