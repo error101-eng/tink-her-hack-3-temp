@@ -45,9 +45,7 @@ For Software:
 - Tools used: AI
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- No hardware used
 
 ### Implementation
 For Software:      
@@ -55,19 +53,19 @@ For Software:
 vs code
 
 # Run
-[commands]
+- Run using live server
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![](https://github.com/error101-eng/tink-her-hack-3-temp/blob/f82890ae6a9f076907f110eaa7444f2ede845693/finalproduct.png)
+![homepage](https://github.com/error101-eng/tink-her-hack-3-temp/blob/f82890ae6a9f076907f110eaa7444f2ede845693/finalproduct.png)
 
 
-![](https://github.com/error101-eng/tink-her-hack-3-temp/blob/1fc27121f6a4c3c38aa7284cb6c9f85bee39d843/Screenshot%20(4).png)
+![Registration window](https://github.com/error101-eng/tink-her-hack-3-temp/blob/1fc27121f6a4c3c38aa7284cb6c9f85bee39d843/Screenshot%20(4).png)
 
 
-![](https://github.com/error101-eng/tink-her-hack-3-temp/blob/1fc27121f6a4c3c38aa7284cb6c9f85bee39d843/Screenshot%20(3).png)
+![Charity endpage](https://github.com/error101-eng/tink-her-hack-3-temp/blob/1fc27121f6a4c3c38aa7284cb6c9f85bee39d843/Screenshot%20(3).png)
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -83,28 +81,26 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-https://drive.google.com/file/d/1AwC6QEW_CLs2UBU4bZiLk1r-2ZwKu0M8/view?usp=drive_link
+![Team Photo](https://drive.google.com/file/d/1AwC6QEW_CLs2UBU4bZiLk1r-2ZwKu0M8/view?usp=drive_link)
 
 
 ![Components](Add photo of your components here)
 *List out all components shown*
 
-[Build]
-https://github.com/error101-eng/tink-her-hack-3-temp/blob/1d55d3a30bf260588db47d96bace7477f15a2d0c/Screenshot%20(1).png
+![Build](https://github.com/error101-eng/tink-her-hack-3-temp/blob/1d55d3a30bf260588db47d96bace7477f15a2d0c/Screenshot%20(1).png)
 
-[Final]
-https://github.com/error101-eng/tink-her-hack-3-temp/blob/f82890ae6a9f076907f110eaa7444f2ede845693/finalproduct.png
+![Final](https://github.com/error101-eng/tink-her-hack-3-temp/blob/f82890ae6a9f076907f110eaa7444f2ede845693/finalproduct.png)
 
 ### Project Demo
 # Video
-https://www.loom.com/share/b9ae75c30e83414c8e3eee6ace486553?sid=d13f8d16-2c8b-419e-a16b-e46112ae0311
+![Demo](https://www.loom.com/share/b9ae75c30e83414c8e3eee6ace486553?sid=d13f8d16-2c8b-419e-a16b-e46112ae0311)
 
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
--Sreelakshmi p: IDEA AND CODING
+- Sreelakshmi p: IDEA AND CODING
 - Akshara mohandas: CODING AND TESTING
 - Fathima nehrin: LOGO AND CODING
 ---
