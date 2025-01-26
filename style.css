@@ -1,0 +1,283 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* General Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+  }
+  #charity-form {
+    padding: 15px; /* Add padding inside the form container */
+    max-width: 600px; /* Optional: Restrict the width of the form for better readability */
+    margin: 0 auto; /* Center the form horizontally */
+  }
+  #charity-form input {
+    padding: 10px 15px; /* Top/Bottom: 10px, Left/Right: 15px */
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+    background: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+  }
+  
+  /* Hero Section */
+  .hero {
+    background: url('bg (2).png') no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .logo img {
+    width: 150px; /* Adjust size as needed */
+    height: auto;
+    border-radius: 100px;
+    object-fit: cover;
+  }
+  
+  .logo p {
+    font-size: 1.5rem;
+    margin: 10px 0 0;
+  }
+  
+  .description {
+    max-width: 600px;
+    margin: 20px 0;
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  
+  .register {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .register h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .register p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  .options button {
+    background-color: #ff6347;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .options button:hover {
+    background-color: #ff4500;
+  }
+
+  /* Hero Section Styling */
+.hero {
+    background-image: url('bg\ \(2\).png'); /* Replace with your image file path */
+    background-size: cover; /* Ensure the background image covers the entire section */
+    background-blend-mode:darken;
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    width: 100%; /* Full width of the section */
+    height: 100vh; /* Full height of the viewport */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white; /* Ensures text is visible on the background */
+    text-align: center;
+  }
+  
+  .logo img {
+    margin-bottom: 20px; /* Optional: adds space below the logo */
+  }
+  
+  .description, .register {
+    margin: 20px 0; /* Adds space between description and register section */
+  }
+  
+  /* Optional styling for buttons */
+  button {
+    background-color: #ff8c00; /* Example button color */
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+  }
+  
+  button:hover {
+    background-color: #e07b00; /* Darken the button on hover */
+  }
+
+/* General Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    background: url('https://via.placeholder.com/1200x800') no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Registration Form Container */
+  .registration-form {
+    background: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 500px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .registration-form h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #ff6347; /* Orange color for the heading */
+  }
+  
+  /* Form Styles */
+  #hotel-restaurant-form,
+  #charity-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #hotel-restaurant-form label,
+  #charity-form label {
+    font-size: 1rem;
+    margin-bottom: 5px;
+    text-align: left;
+    color: white;
+  }
+  
+  #hotel-restaurant-form input,
+  #hotel-restaurant-form select,
+  #hotel-restaurant-form textarea,
+  #charity-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+    background: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+  }
+  
+  #hotel-restaurant-form select {
+    appearance: none; /* Remove default arrow */
+    background: rgba(255, 255, 255, 0.9) url('data:image/svg+xml;utf8,<svg fill="black" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/></svg>') no-repeat right 10px center;
+    background-size: 12px;
+  }
+  
+  #hotel-restaurant-form textarea {
+    resize: vertical; /* Allow vertical resizing */
+    min-height: 100px;
+  }
+  
+  #hotel-restaurant-form button,
+  #charity-form button {
+    background-color: #ff6347; /* Orange color */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #hotel-restaurant-form button:hover,
+  #charity-form button:hover {
+    background-color: #ff4500; /* Darker orange on hover */
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 600px) {
+    .registration-form {
+      width: 90%;
+      padding: 15px;
+    }
+  
+    .registration-form h2 {
+      font-size: 1.5rem;
+    }
+  
+    #hotel-restaurant-form input,
+    #hotel-restaurant-form select,
+    #hotel-restaurant-form textarea,
+    #charity-form input {
+      font-size: 0.9rem;
+    }
+  
+    #hotel-restaurant-form button,
+    #charity-form button {
+      font-size: 0.9rem;
+    }
+  }
+  
+  /* Food Donation Management Styles */
+.donation-management {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 800px;
+    margin: 20px auto;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .donation-management h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #ff6347;
+  }
+  
+  .post-donation,
+  .matching-algorithm,
+  .scheduling-logistics,
+  .feedback-rating {
+    margin-bottom: 30px;
+  }
+  
+  .post-donation h3,
+  .matching-algorithm h3,
+  .scheduling-logistics h3,
+  .feedback-rating h3 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+    color: #ff6347;
+  }
+  
+  #matches-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #matches-list li {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
